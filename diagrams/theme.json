@@ -13,13 +13,44 @@
       "shape": "Person"
     },
     {
-      "tag": "Highlighted",
+      "tag": "Focused System",
       "background": "#1168bd",
       "color": "#ffffff"
     },
     {
+      "tag": "Software System",
+      "background": "#1168bd",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Container",
+      "background": "#438dd5",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Component",
+      "background": "#85bbf0",
+      "color": "#000000"
+    },
+    {
+      "tag": "Infrastructure Node",
+      "background": "#ffffff"
+    },
+    {
+      "tag": "Web Browser",
+      "shape": "WebBrowser"
+    },
+    {
+      "tag": "Mobile App",
+      "shape": "MobileDeviceLandscape"
+    },
+    {
+      "tag": "Database",
+      "shape": "Cylinder"
+    },
+    {
       "tag": "External",
-      "background": "#999999"
+      "background": "#888888"
     }
   ]
 }
