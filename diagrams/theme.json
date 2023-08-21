@@ -13,6 +13,11 @@
       "shape": "Person"
     },
     {
+      "tag": "FocusedSystem",
+      "background": "#1168bd",
+      "color": "#ffffff"
+    },
+    {
       "tag": "Software System",
       "background": "#1168bd",
       "color": "#ffffff"
@@ -37,16 +42,11 @@
     },
     {
       "tag": "MobileApp",
-      "shape": "Mobile Device Landscape"
+      "shape": "MobileDeviceLandscape"
     },
     {
       "tag": "Database",
       "shape": "Cylinder"
-    },
-    {
-      "tag": "Highlighted",
-      "background": "#1168bd",
-      "color": "#ffffff"
     },
     {
       "tag": "External",
