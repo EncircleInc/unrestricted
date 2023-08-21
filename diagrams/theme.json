@@ -13,7 +13,7 @@
       "shape": "Person"
     },
     {
-      "tag": "FocusedSystem",
+      "tag": "Focused System",
       "background": "#1168bd",
       "color": "#ffffff"
     },
@@ -37,11 +37,11 @@
       "background": "#ffffff"
     },
     {
-      "tag": "WebBrowser",
+      "tag": "Web Browser",
       "shape": "WebBrowser"
     },
     {
-      "tag": "MobileApp",
+      "tag": "Mobile App",
       "shape": "MobileDeviceLandscape"
     },
     {
