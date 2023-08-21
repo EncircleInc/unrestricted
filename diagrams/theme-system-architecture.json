@@ -1,6 +1,6 @@
 {
   "name": "Encircle",
-  "description": "Structurizr theme for Encircle, meant for system architecture diagrams",
+  "description": "Theme for Encircle Structurizr (*.dsl) diagrams.",
   "elements": [
     {
       "tag": "Element",
