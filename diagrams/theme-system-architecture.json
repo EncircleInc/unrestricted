@@ -1,0 +1,25 @@
+{
+  "name": "Encircle",
+  "description": "Theme for Encircle Structurizr (*.dsl) diagrams.",
+  "elements": [
+    {
+      "tag": "Element",
+      "shape": "RoundedBox"
+    },
+    {
+      "tag": "Person",
+      "background": "#08427b",
+      "color": "#ffffff",
+      "shape": "Person"
+    },
+    {
+      "tag": "Highlighted",
+      "background": "#1168bd",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "External",
+      "background": "#999999"
+    }
+  ]
+}
