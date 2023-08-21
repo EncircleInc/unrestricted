@@ -13,6 +13,25 @@
       "shape": "Person"
     },
     {
+      "tag": "Software System",
+      "background": "#1168bd",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Container",
+      "background": "#438dd5",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Component",
+      "background": "#85bbf0",
+      "color": "#000000"
+    },
+    {
+      "tag": "Infrastructure Node",
+      "background": "#ffffff"
+    },
+    {
       "tag": "WebBrowser",
       "shape": "WebBrowser"
     },
@@ -31,7 +50,7 @@
     },
     {
       "tag": "External",
-      "background": "#999999"
+      "background": "#AAAAAA"
     }
-  ],
+  ]
 }
