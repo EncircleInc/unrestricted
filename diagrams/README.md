@@ -10,7 +10,7 @@ and expanded from there to suit our needs.
 
 > [!IMPORTANT]
 > The Git for Confluence plugin we use to include Structurizr diagrams does not honor a
-> theme URL at this time. Use the `theme.dsl` instead, until further notice. 
+> theme URL at this time. For now, use the `theme.dsl` instead. 
 
 **Helpful Links**
 - [Structurizr Themes](https://structurizr.com/help/themes)
