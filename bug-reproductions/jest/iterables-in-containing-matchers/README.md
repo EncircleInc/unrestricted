@@ -1,6 +1,6 @@
 # Iterables in Jest's containing matchers
 
-Reproduction for a Jest bug: inside `expect.objectContaining`, `expect.arrayContaining`, and `expect.arrayOf`, a `Set`, `Map`, or other iterable that isn't an `Array` or a typed array matches any other of its kind, no matter what it contains.
+Reproduction for a Jest bug: inside `expect.objectContaining`, `expect.arrayContaining`, and `expect.arrayOf`, a `Set`, `Map`, or other iterable that isn't an `Array` or a typed array matches any other of its kind, no matter what it contains. Reported as [jestjs/jest#16508](https://github.com/jestjs/jest/issues/16508).
 
 ## Environment
 
